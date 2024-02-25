@@ -7,3 +7,9 @@
 - Integrate
   -- Nexus
   --Sonarqube 
+
+## Plugins for CI
+- Nexus
+- Sonarqube
+- Git
+- Pipeline Maven Integration Plugin
