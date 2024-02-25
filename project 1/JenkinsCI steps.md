@@ -13,3 +13,4 @@
 - Sonarqube
 - Git
 - Pipeline Maven Integration Plugin
+- build timestamp
