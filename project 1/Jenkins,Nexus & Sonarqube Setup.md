@@ -101,5 +101,12 @@ systemctl enable nexus
 
 ---
   
-
+## Setting up Nexus Server
+- ubuntu 20.04 or 22.04
+- t2.medium
+- Create nexusSG
+- Add port 22 from my ip
+- add port 80 from anywhere or port 80 from jenkinsSG
+- Add setup script in user data
+  ![/userdata/sonar-setup.sh]
 
