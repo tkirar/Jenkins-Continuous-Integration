@@ -1,7 +1,12 @@
 ## Steps
+userdata folder has the installation scripts for setting up these servers.
 - Jenkins setup
 - Nexus setup
 - Sonarqube Setup
+
+
+  Kindly update :
+  
 - Security Setup
 - Plugins
 - Integrate
