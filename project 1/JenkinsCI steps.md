@@ -1,8 +1,8 @@
 ## Steps
 userdata folder has the installation scripts for setting up these servers.
-- Jenkins setup
-- Nexus setup
-- Sonarqube Setup
+- Jenkins setup (ubuntu 20.04)
+- Nexus setup  (centos 7)
+- Sonarqube Setup (ubuntu 20.04)
 
 
   Kindly update :
