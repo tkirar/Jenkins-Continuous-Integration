@@ -34,9 +34,13 @@ userdata folder has the installation scripts for setting up these servers.
 
    ![image](https://github.com/tkirar/Jenkins-Continuous-Integration/assets/69767391/55d011c2-6bc4-48b8-a6ca-9d755e12c800)
 
+   ## With QualityGates stage
+   
+![Ci QualityGate](https://github.com/tkirar/Jenkins-Continuous-Integration/assets/69767391/a8656254-87de-4dc8-a1bd-a8d7d5e0ffbe)
 
-5. Now integrating the Nexus repository server to upload artifacts through Pipeline as a code script.
-6. 
+
+6. Now integrating the Nexus repository server to upload artifacts through Pipeline as a code script.
+7. 
 
    
    
